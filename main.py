@@ -29,9 +29,4 @@ win.pushButton.clicked.connect(btnLoadTable)
 win.show()
 sys.exit(app.exec())
 
-
-
-
-"# Restoran" 
-"# Menu-blud" 
 "# Eda" 
